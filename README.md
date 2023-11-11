@@ -14,12 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ### Skills 
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=javascript&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=nodedotjs&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=mongodb&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=mysql&logoColor=white" />
+	
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soo1e](https://github.com/anuraghazra/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soo1e)](https://velog.io/@soo1e)
+
 
 ### Contact ME
 <a href="https://velog.io/@soo1e"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>

@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 
 ### Contact ME
+💬 tndnjsco@naver.com
+
 <a href="https://velog.io/@soo1e"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=soo1e)](https://velog.io/@soo1e)
